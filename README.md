@@ -88,3 +88,10 @@ npm run dev
     CORS: Solo se permiten solicitudes desde el origen del frontend (localhost:5173).
 
     Integridad: Uso de T-SQL para garantizar la coherencia de los datos en MS SQL Server.
+    <img width="1920" height="1044" alt="Captura desde 2026-05-04 12-05-58" src="https://github.com/user-attachments/assets/eb1b8f02-4057-4556-a5c5-4a5abd61d679" />
+<img width="1920" height="1044" alt="Captura desde 2026-05-04 12-02-52" src="https://github.com/user-attachments/assets/7b6726ac-4189-4b44-8507-3abcd2c5d909" />
+<img width="1920" height="1044" alt="Captura desde 2026-05-04 12-02-41" src="https://github.com/user-attachments/assets/751cc6bb-2e53-43b3-968a-69c6d4cc70e2" />
+<img width="1920" height="1044" alt="Captura desde 2026-05-04 12-02-38" src="https://github.com/user-attachments/assets/8e5a1612-6046-444c-a864-085f469751e1" />
+<img width="1920" height="1044" alt="Captura desde 2026-05-04 12-02-35" src="https://github.com/user-attachments/assets/6e3e598f-a290-4358-aa67-a432b784508b" />
+<img width="1920" height="1044" alt="Captura desde 2026-05-04 12-02-33" src="https://github.com/user-attachments/assets/789fe327-cdee-452e-a12f-8f6198a2a672" />
+
